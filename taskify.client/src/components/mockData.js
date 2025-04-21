@@ -15,7 +15,7 @@ const mockData = [
             },
             {
                 id: uuidv4(),
-                title: 'Learn Python'
+                title: 'Drink a glass of water'
             },
         ]
     },
@@ -25,11 +25,11 @@ const mockData = [
         tasks: [
             {
                 id: uuidv4(),
-                title: 'Learn CSS'
+                title: 'Buy a new car'
             },
             {
                 id: uuidv4(),
-                title: 'Learn Golang'
+                title: 'Paint the room'
             }
         ]
     },
@@ -39,7 +39,7 @@ const mockData = [
         tasks: [
             {
                 id: uuidv4(),
-                title: 'Learn HTML'
+                title: 'Go on a workout'
             }
         ]
     },

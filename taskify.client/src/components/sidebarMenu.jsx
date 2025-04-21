@@ -1,4 +1,3 @@
-import React from 'react';
 import './styles/sidebar/sidebarMenu.css';
 
 import SidebarItem from './sidebarItem';

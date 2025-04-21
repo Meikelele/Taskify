@@ -1,4 +1,3 @@
-import React from 'react';
 
 import { BsThreeDotsVertical } from 'react-icons/bs';
 
@@ -12,7 +11,6 @@ const ProjectTile = () => {
     return (
         <div className="projectTile">
             <div className='projectTile__logo'>
-                {/* <img src='https://via.placeholder.com/150' alt='project logo' /> */}
             </div>
             <div className='projectTile__body'>
                 <div className="projectTile__body__header">
@@ -21,7 +19,7 @@ const ProjectTile = () => {
 
                 </div>
                 <div className="projectTile__body__content">
-                    <p className='content'>Project Description Lorem ipsum cos tam cos tam cos tam no jakis tam opis co mozna do projektu dodac</p>
+                    <p className='content'>Lorem ipsum cos tam cos tam cos tam no jakis tam opis co mozna</p>
                 </div>
                 <div className="projectTile__body__footer">
                     <button className='button'>See</button>

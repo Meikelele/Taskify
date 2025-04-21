@@ -38,28 +38,6 @@
         ]
     },
     {
-        "title": "Account",
-        "icon": "bi-info-circle-fill",
-        "childrens": [
-            {
-                "title": "Login",
-                "path": "/login"
-            },
-            {
-                "title": "Register",
-                "path": "/register"
-            },
-            {
-                "title": "Forgot Password",
-                "path": "/forgot-password"
-            },
-            {
-                "title": "Reset Password",
-                "path": "/reset-password"
-            }
-        ]
-    },
-    {
         "title": "Profile",
         "icon": "bi-person-fill",
         "childrens": [
@@ -100,30 +78,8 @@
         ]
     },
     {
-        "title": "Advance",
-        "icon": "bi-view-list",
-        "childrens": [
-            {
-                "title": "Search",
-                "path": "/search"
-            },
-            {
-                "title": "History",
-                "path": "/history"   
-            }
-        ]
-    },
-    {
         "title": "Support",
         "icon": "bi-question-circle-fill",
         "path": "/support"
-    },
-    {
-        "title": "Report Bug",
-        "icon": "bi-bug",
-        "path": "/report-bug"
-    },
-    {
-        "title": "Margot Robbie"
     }
 ]
