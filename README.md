@@ -1,6 +1,9 @@
 # Taskify
-Taskify is a task and team management app that includes a Kanban board for organizing work visually.  
-This application was developed as a team project.
+<p align="center">
+  Taskify is a task and team management app that includes a Kanban board for organizing work visually.  
+</p>
+<p align="center">This application was developed as a team project. </p>
+<p align="center">I was resposible for entire frontend.</p>
 
 ## Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
