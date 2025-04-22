@@ -1,4 +1,4 @@
-# Taskify
+<h1 align="center">Taskify</h1>
 <p align="center">
   Taskify is a task and team management app that includes a Kanban board for organizing work visually.  
 </p>
